@@ -12,6 +12,7 @@
 		6409F9B32B6D305D003800E8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6409F9B22B6D305D003800E8 /* Preview Assets.xcassets */; };
 		6409F9BE2B6D30C5003800E8 /* AnimationsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6409F9BD2B6D30C5003800E8 /* AnimationsListView.swift */; };
 		6409F9C12B6D31BD003800E8 /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = 6409F9C02B6D31BD003800E8 /* Lottie */; };
+		6409F9C32B6D31E5003800E8 /* LottieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6409F9C22B6D31E5003800E8 /* LottieView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		6409F9AF2B6D305D003800E8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6409F9B22B6D305D003800E8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6409F9BD2B6D30C5003800E8 /* AnimationsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsListView.swift; sourceTree = "<group>"; };
+		6409F9C22B6D31E5003800E8 /* LottieView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LottieView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				6409F9BD2B6D30C5003800E8 /* AnimationsListView.swift */,
+				6409F9C22B6D31E5003800E8 /* LottieView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 			files = (
 				6409F9AC2B6D305C003800E8 /* LottieAnimationsListApp.swift in Sources */,
 				6409F9BE2B6D30C5003800E8 /* AnimationsListView.swift in Sources */,
+				6409F9C32B6D31E5003800E8 /* LottieView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
