@@ -2,7 +2,7 @@
 //  FavouriteAnimation.swift
 //  LottieAnimationsTest
 //
-//  Created by Russell Gordon on 2023-01-27.
+//  Created by Yukun Xie on 2023-02-02.
 //
 
 import Foundation
@@ -19,17 +19,17 @@ struct FavouriteAnimation: Identifiable {
 let favourites = [
 
     FavouriteAnimation(fileName: "Animation - 1706884071413",
-                       description: "Cute Rice")
+                       description: "Police")
     
     ,
 
     FavouriteAnimation(fileName: "Animation - 1706884045149",
-                       description: "Lost Kitty 😕")
+                       description: "Sketch")
     
     ,
 
     FavouriteAnimation(fileName: "Animation - 1706883922949",
-                       description: "Happy Plant 🪴")
+                       description: "Correct!")
     
     ,
 ]
